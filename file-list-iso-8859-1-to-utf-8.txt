@@ -1,0 +1,2 @@
+/repo/path/encoding-converter-iso-8859-1-and-utf-8/f-iso.txt
+/repo/path/encoding-converter-iso-8859-1-and-utf-8/template-iso.html
